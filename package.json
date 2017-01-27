@@ -1,0 +1,16 @@
+{
+  "name": "naxt",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Fabien Dobat <fabien.dobat@seniormedia.fr>",
+  "private": true,
+  "dependencies": {
+    "nuxt": "latest"
+  },
+  "scripts": {
+    "dev": "PORT=3333 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  }
+}
